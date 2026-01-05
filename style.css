@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.cont1{
+    width: 100%;
+    min-height: 200px;
+    background-image:linear-gradient(to right,blue,#380303) ;
+    padding-top: 5px;
+}
+.container{
+     width: 225px;
+     height: 60px;
+    background-image:linear-gradient(to right,blue,rgb(56, 3, 3)) ;
+    line-height: 23px;
+    border-radius: 5px;
+    margin: 5px 0 0 0 ;
+}
+.name{
+    font-family: poppins;
+    color: white;
+    font-size: 22px;
+    padding-top: 13px;
+   margin-left: 14px;
+}
+.tag{
+    font-family: poppins;
+    font-weight: 100px;
+    font-size: 49%;
+    margin-left: 15px;
+    color :white;
+    
+}
+
+
+.text{
+    background-color: green;
+    height: 200px;
+    color: white;
+}
+
+.text h1{
+    margin-top: 50px;
+}
